@@ -59,6 +59,6 @@ Este código cria um aplicativo interativo que permite a análise de dados de ve
 Para executar este código localmente, siga estas etapas:
 1. Faça o download de todos os arquivos do repositório.
 2. Abra um terminal na pasta onde os arquivos estão localizados.
-3. Execute o comando `python3 -m streamlit run nome_do_arquivo.py`, onde `nome_do_arquivo.py` é o nome do arquivo Python que contém o código Streamlit.
+3. Execute o comando `python3 -m streamlit run nome_do_arquivo.py`, onde `nome_do_arquivo.py` é o nome do arquivo Python que contém o código Streamlit (neste caso, dash.py).
 
 Certifique-se de que você tenha o Python e as bibliotecas necessárias corretamente instaladas em seu ambiente de desenvolvimento.
