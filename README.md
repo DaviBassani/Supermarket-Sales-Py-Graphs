@@ -1,4 +1,4 @@
-# Documentação do Código
+# Sobre
 
 Este é um aplicativo Streamlit que permite a análise de dados de vendas em supermercados a partir do arquivo CSV "supermarket_sales.csv". Ele oferece visualizações interativas em cinco aspectos principais: faturamento por dia, faturamento por tipo de produto, faturamento por filial, faturamento por tipo de pagamento e avaliações das filiais.
 
